@@ -1,0 +1,1 @@
+Numero % xcodebuild -project 'Numero.xcodeproj' -scheme 'Numero' -destination 'platform=iOS Simulator,name=iPhone 12' test | xcpretty
